@@ -66,12 +66,12 @@ public class ShowGeometry {
                 case 3:
                     for (int i = 0; i <= 6; i++) {
                         for (int space = 7 - i; space >= 1; space--) {
-                            System.out.print(" ");
+                            System.out.printf("\t");
                         }
                         for (int j = 0; j < i * 2 + 1; j++) {
-                            System.out.printf("%s", "*");
+                            System.out.printf("%s\t", "*");
                         }
-                        System.out.println("");
+                        System.out.printf("\n");
                     }
                     break;
                 case 0:
