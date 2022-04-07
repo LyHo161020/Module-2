@@ -6,7 +6,6 @@ public class Main {
 //        Test Shape
 	    Shape shape = new Shape("red", false);
         System.out.println(shape);
-
         shape = new Shape("red", false);
         System.out.println(shape);
 
