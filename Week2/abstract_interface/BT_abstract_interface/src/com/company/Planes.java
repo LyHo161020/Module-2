@@ -1,10 +1,10 @@
 package com.company;
 
-public class Siddeley extends Machine implements Flyable{
-    public Siddeley(){
+public class Planes extends Machine implements Flyable{
+    public Planes(){
     }
 
-    public Siddeley(String name){
+    public Planes(String name){
         super(name);
     }
     @Override

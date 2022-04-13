@@ -1,10 +1,10 @@
 package com.company;
 
-public class McQueen extends Machine implements Runnable{
-    public McQueen(){
+public class Car extends Machine implements Runnable{
+    public Car(){
     }
 
-    public McQueen(String name){
+    public Car(String name){
         super(name);
     }
     @Override

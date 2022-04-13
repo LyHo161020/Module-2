@@ -1,2 +1,6 @@
-package com.company;public class Barkalbe {
+package com.company;
+
+public interface Barkalbe {
+    String makeSound();
 }
+

@@ -1,4 +1,5 @@
 package com.company;
 
-public interface Swimmalbe {
+public interface Swimalbe {
+    String swim();
 }
