@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8fa64578-f802-46c9-8539-c72c6ae253e1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../case_study/product_management/product_management.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/QuadraticEquation/out/production/QuadraticEquation/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week1/QuadraticEquation/out/production/QuadraticEquation/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/QuadraticEquation/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week1/QuadraticEquation/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/QuadraticEquation/src/com/company/QuadraticEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week1/QuadraticEquation/src/com/company/QuadraticEquation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/count_char/src/com/company/CountChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week1/count_char/src/com/company/CountChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/find_max_element/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week1/find_max_element/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/geometry/src/com/company/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/geometry/src/com/company/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/geometry/src/com/company/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/geometry/src/com/company/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/read_number/out/production/read_number/ReadNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week1/read_number/out/production/read_number/ReadNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/read_number/src/ReadNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week1/read_number/src/ReadNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/student/out/production/student/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week1/student/out/production/student/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/student/out/production/student/com/company/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week1/student/out/production/student/com/company/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/student/src/com/company/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week1/student/src/com/company/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/test/out/production/test/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week1/test/out/production/test/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/test/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week1/test/src/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/test1/src/com/company/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week1/test1/src/com/company/MyClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/test1/src/com/company/test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week1/test1/src/com/company/test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/untitled/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abstract_interface/BT_abstract_interface/out/production/BT_abstract_interface/com/company/Barkalbe.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../abstract_interface/BT_abstract_interface/out/production/BT_abstract_interface/com/company/Barkalbe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abstract_interface/BT_abstract_interface/out/production/BT_abstract_interface/com/company/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../abstract_interface/BT_abstract_interface/out/production/BT_abstract_interface/com/company/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abstract_interface/BT_abstract_interface/out/production/BT_abstract_interface/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../abstract_interface/BT_abstract_interface/out/production/BT_abstract_interface/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abstract_interface/BT_abstract_interface/src/com/company/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../abstract_interface/BT_abstract_interface/src/com/company/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abstract_interface/BT_abstract_interface/src/com/company/Barkalbe.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../abstract_interface/BT_abstract_interface/src/com/company/Barkalbe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abstract_interface/BT_abstract_interface/src/com/company/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../abstract_interface/BT_abstract_interface/src/com/company/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abstract_interface/BT_abstract_interface/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../abstract_interface/BT_abstract_interface/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abstract_interface/animal_edible/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../abstract_interface/animal_edible/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abstract_interface/comparable/out/production/comparable/com/company/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../abstract_interface/comparable/out/production/comparable/com/company/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abstract_interface/comparable/out/production/comparable/com/company/ComparableCircle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../abstract_interface/comparable/out/production/comparable/com/company/ComparableCircle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abstract_interface/comparable/out/production/comparable/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../abstract_interface/comparable/out/production/comparable/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abstract_interface/comparable/src/com/company/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../abstract_interface/comparable/src/com/company/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercise/phone/src/com/company/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../exercise/phone/src/com/company/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercise/phone/src/com/company/PhoneBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../exercise/phone/src/com/company/PhoneBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../inheritance/geometry/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../inheritance/geometry/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../inheritance/geometry/out/production/geometry/com/company/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../inheritance/geometry/out/production/geometry/com/company/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../inheritance/geometry/out/production/geometry/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../inheritance/geometry/out/production/geometry/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../inheritance/geometry/out/production/geometry/com/company/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../inheritance/geometry/out/production/geometry/com/company/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../inheritance/geometry/out/production/geometry/com/company/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../inheritance/geometry/out/production/geometry/com/company/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../inheritance/geometry/out/production/geometry/com/company/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../inheritance/geometry/out/production/geometry/com/company/Square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../inheritance/geometry/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../inheritance/geometry/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../inheritance/geometry/src/com/company/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../inheritance/geometry/src/com/company/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../inheritance/moveable_point/out/production/moveable_point/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../inheritance/moveable_point/out/production/moveable_point/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../inheritance/triangle/out/production/triangle/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../inheritance/triangle/out/production/triangle/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../inheritance/triangle/out/production/triangle/com/company/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../inheritance/triangle/out/production/triangle/com/company/Triangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../case_study/product_management/src/com/company/menu/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../case_study/product_management/src/com/company/menu/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../case_study/product_management/src/com/company/menu/EditProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../case_study/product_management/src/com/company/menu/EditProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../case_study/product_management/src/com/company/menu/FavouriteProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../case_study/product_management/src/com/company/menu/FavouriteProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../case_study/product_management/src/com/company/menu/ListProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../case_study/product_management/src/com/company/menu/ListProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../case_study/product_management/src/com/company/menu/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../case_study/product_management/src/com/company/menu/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../case_study/product_management/src/com/company/menu/SearchProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../case_study/product_management/src/com/company/menu/SearchProduct.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/apj-calculator" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27oizoGeOPSz1mUItR6vBB1Nx0h" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="JUnit.CalculatorTest">
+    <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="refactoring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codegym.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codegym" />
+      <option name="MAIN_CLASS_NAME" value="com.codegym.CalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.testCalculateAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="refactoring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codegym.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codegym" />
+      <option name="MAIN_CLASS_NAME" value="com.codegym.CalculatorTest" />
+      <option name="METHOD_NAME" value="testCalculateAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CalculatorTest" />
+        <item itemvalue="JUnit.CalculatorTest.testCalculateAdd" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fa64578-f802-46c9-8539-c72c6ae253e1" name="Changes" comment="" />
+      <created>1649993105072</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649993105072</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
