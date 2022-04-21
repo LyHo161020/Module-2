@@ -10,7 +10,6 @@ public class Solution {
     public static class Queue {
         Node front, rear;
     }
-
     public static void enQueue(Queue q, int value){
         Node  temp = new Node();
         temp .data = value;
@@ -74,6 +73,7 @@ public class Solution {
         System.out.println();
         enQueue(q, 9);
         enQueue(q, 20);
+        enQueue(q, 30);
         displayQueue(q);
     }
 }
